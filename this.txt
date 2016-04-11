@@ -1,0 +1,345 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Texas Pecan Growers Association</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="The Texas Pecan Growers Association (TPGA) is a nonprofit, educational association, formed in 1921 and incorporated in 1967.">
+<meta name="keywords" content="Texas Pecan Growers Association, texas pecans, pecan growers, texas, pecan, growers association, growing pecans, growing, pecan south, harvest pecans, nuts, go texan, texans, southern pecans, pecan south magazine, pecan magazine">
+<meta name="robots" content="index,follow">
+<meta name="revisit-after" content="30">
+<script language="JavaScript" type="text/JavaScript">
+	<!--
+	function MM_swapImgRestore() { //v3.0
+		var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+	}
+	
+	function MM_preloadImages() { //v3.0
+		var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+		var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+		if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+	}
+	
+	function MM_findObj(n, d) { //v4.01
+		var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+		d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+		if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+		for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+		if(!x && d.getElementById) x=d.getElementById(n); return x;
+	}
+	
+	function MM_swapImage() { //v3.0
+		var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+		if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+	}
+	//-->
+</script>
+<link href="../css/tpga.css" rel="stylesheet" type="text/css">
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('images/links_f2.jpg','images/membersarea_f2.jpg','images/application_f2.jpg','images/listevents_f2.jpg','images/recipes_f2.jpg','images/activities_f2.jpg','images/annualconf_f2.jpg','images/buysell_f2.jpg','images/updates_f2.jpg','images/whatnew_f2.jpg','images/index_f2.jpg','images/onlinemag_f2.jpg','images/faqs_f2.jpg','images/fundraisers_f2.jpg','images/home_f2.jpg','images/contact_f2.jpg','images/store_f2.jpg','images/search_f2.jpg')">
+<table width="800" border="0" cellspacing="0" cellpadding="0">
+<tr>
+    <td colspan="3"><img src="images/top_logo.jpg" width="800" height="137" border="0" usemap="#Map"></td>
+</tr>
+<tr>
+    <td colspan="3"><img src="images/left.jpg" width="248" height="29"><a href="http://www.tpga.org/index.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image3','','images/home_f2.jpg',1)"><img src="images/home.jpg" alt="Home" name="Image3" width="59" height="29" border="0"></a><a href="http://www.tpga.org/contact.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image4','','images/contact_f2.jpg',1)"><img src="images/contact.jpg" alt="Contact Us" name="Image4" width="78" height="29" border="0"></a><img src="images/store.jpg" alt="Store" name="Image5" width="72" height="29" border="0"><img src="images/search.jpg" alt="Search" name="Image6" width="68" height="29" border="0"><img src="images/right.jpg" width="275" height="29"></td>
+</tr>
+<tr>
+    <td width="193" valign="top">
+    	<table width="193" height="356" border="0" cellspacing="0" cellpadding="0" style="background-image:url(images/nav_bg.jpg)">
+            <tr>
+                <td><img src="images/spacer.gif" /></td>
+            </tr>
+            <tr>
+                <td height="22"><a href="https://www.tpga.org/member_area.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image9','','images/membersarea_f2.png',1)"><img src="images/membersarea.png" alt="Members Area" name="Image9" border="0"></a></td>
+            </tr>
+            <tr>
+                <td height="22"><a href="https://www.tpga.org/merchandise/add_item.php?id=67&m=10" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image10','','images/application_f2.png',1)"><img src="images/application.png" alt="Application" name="Image10" border="0"></a></td>
+            </tr>
+            <tr>
+                <td height="22"><a href="http://www.tpga.org/events_list.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image11','','images/listevents_f2.png',1)"><img src="images/listevents.png" alt="List of Events" name="Image11" border="0"></a></td>
+            </tr>
+            <tr>
+                <td height="22"><a href="http://www.tpga.org/recipes.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image12','','images/recipes_f2.png',1)"><img src="images/recipes.png" alt="Recipes" name="Image12" border="0"></a></td>
+            </tr>
+            <tr>
+                <td height="22"><a href="http://www.tpga.org/activities.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image13','','images/activities_f2.png',1)"><img src="images/activities.png" alt="TPGA Activities" name="Image13" border="0"></a></td>
+            </tr>
+            <tr>
+                <td height="22"><a href="http://www.tpga.org/annconference.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image14','','images/annualconf_f2.png',1)"><img src="images/annualconf.png" alt="Annual Conference" name="Image14" border="0"></a></td>
+            </tr>
+            <tr>
+                <td height="22"><a href="http://www.tpga.org/buysellpecans.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image15','','images/buysell_f2.png',1)"><img src="images/buysell.png" alt="Buying/Selling Pecans" name="Image15" border="0"></a></td>
+            </tr>
+            <tr>
+                <td height="22"><a href="http://www.tpga.org/exportingpecans.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image24','','images/exportingpecans_f2.png',1)"><img src="images/exportingpecans.png" alt="Exporting Pecans" name="Image24" border="0"></a></td>
+            </tr>
+            <tr>
+                <td height="22"><a href="http://www.tpga.org/nutritionupdates.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image16','','images/updates_f2.png',1)"><img src="images/updates.png" alt="Nutrition/Health Updates" name="Image16" border="0"></a></td>
+            </tr>
+            <tr>
+                <td height="22"><a href="http://www.tpga.org/whats_new.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image17','','images/whatnew_f2.png',1)"><img src="images/whatnew.png" alt="What's New" name="Image17" border="0"></a></td>
+            </tr>
+            <tr>
+                <td height="22"><a href="http://www.tpga.org/magazine.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image18','','images/index_f2.png',1)"><img src="images/index.png" alt="Pecan South Index" name="Image18" border="0"></a></td>
+            </tr>
+            <tr>
+                <td height="22"><a href="http://www.tpga.org/magazine/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image21','','images/onlinemag_f2.png',1)"><img src="images/onlinemag.png" alt="Pecan South Online Magazine" name="Image21" border="0"></a></td>
+            </tr>
+            <tr>
+                <td height="22"><a href="http://www.tpga.org/faqs.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image19','','images/faqs_f2.png',1)"><img src="images/faqs.png" alt="FAQ's" name="Image19" border="0"></a></td>
+            </tr>
+            <tr>
+                <td height="22"><a href="http://www.tpga.org/links.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image20','','images/links_f2.png',1)"><img src="images/links.png" alt="Links" name="Image20" border="0"></a></td>
+            </tr>
+            <tr>
+                <td height="22"><a href="http://www.tpga.org/good_practices.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image22','','images/practices_f2.png',1)"><img src="images/practices.png" alt="Links" name="Image22" border="0"></a></td>
+            </tr>
+            <tr>
+                <td height="25">&nbsp;</td>
+            </tr>
+        </table>
+    </td>
+<td width="602" valign="top">
+	<img src="../images/spacer.gif" width="602" height="1">
+    <h1>Where to Buy Pecans</h1>
+<p><strong>ANDERSON COUNTY</strong></p>
+<p>&nbsp;</p>
+<p><strong>ATASCOSA COUNTY</strong></p>
+<p><strong>BASTROP COUNTY</strong></p>
+<p>Berdoll Pecan Candy and Gift. Co.<br /> 2626 Hwy. 71W, Cedar Creek, TX 78612<br /> 512-321-6157<br /> email: <a href="mailto:info@berdoll.com">info@berdoll.com</a><br /> <a href="http://www.berdoll.com" target="_blank">www.berdoll.com</a> Inshell, cracked, shelled pecans; candied pecans; mail order; retail.</p>
+<p>Pecan Grove Farms and Nursery<br /> (formerly Hal Berdoll Pecan Farm and Nursery)<br /> Inshell Pecans Available Year Round - Wichita, Cheyenne, Kiowa,<br /> Choctaw and Pawnee&lt;<br /> <a href="mailto:lavaughn@pecangrovefarms.com">lavaughn@pecangrovefarms.com</a><br /> Phone: 972-261-4011 or 512-308-9395; Fax 512-308-9365</p>
+<p>Sebe Berdoll<br /> Sebe Berdoll Pecans<br /> 471 Berdoll Lane<br /> Cedar Creek, TX 78612<br /> 512-762-5911<br /> email: <a href="mailto:berdoll.orchard@gmail.com">berdoll.orchard@gmail.com</a><br /> Inshell pecans . Pawnee, Wichita, Cheyenne</p>
+<p><strong>BELL COUNTY</strong></p>
+<p><strong>BEXAR COUNTY</strong></p>
+<p>Leonardo G. Hernandez, Frank's Pecans<br /> 20260 Campbellton Rd., San Antonio, TX 78264<br /> 210-626-1164<br /> 210-274-3771<br /> email: <a href="mailto:hernandezlg@ymail.com">hernandezlg@ymail.com</a><br /> Inshell pecans, Nov. - Jan. Cheyenne, Kiowa, Pawnee.</p>
+<p><strong>BORDEN COUNTY</strong></p>
+<p><strong>BOWIE COUNTY</strong></p>
+<p>R.B. Bagley &amp; Sons Inc.<br /> 3169 CR 2301 Texarkana, TX 75503<br /> 903-838-5631<br /> email: <a href="mailto:bagley@centex.net">bagley@centex.net</a><br /> <a href="www.rbbagleypecans.com">www.rbbagleypecans.com</a><br /> Pecans.</p>
+<p><strong>BRAZORIA COUNTY</strong></p>
+<p>Alford Pecan Grove<br /> Michael and Rita Alford<br /> Rosharon, TX 77583<br /> email: <a href="mailto:rgalford@sbcglobal.net">rgalford@sbcglobal.net</a><br /> Inshell, Shelled and Cracked.</p>
+<p>Dohmann Pecan Farms, Edgar and Janis Dohmann<br /> 1816 CR149<br /> Alvin, TX 77511<br /> email: <a href="mailto:edgar@dohmann.com">edgar@dohmann.com</a><br /> <a href="http://www.dohmann.com" target="_blank">www.dohmann.com</a><br /> Native pecans - inshell or cracked; available Oct-Jan; we ship anywhere in the USA.</p>
+<p>Schaper Pecans, Richard and Diane Schaper<br /> 7130 County Rd 42<br /> Rosharon, TX 77583<br /> 281-352-3781<br /> email: <a href="mailto:rdschaper@gmail.com">RDSCHAPER@gmail.com</a><br /> Shelled pecans - Pawnee, Choctaw, Kanza, Prilop &amp; Oconee. High speed quality cracking and shelling.<br /> Available October - January.</p>
+<p><strong>BRAZOS COUNTY</strong></p>
+<p>Quality Pecans LLC<br /> 17099 W. US Hwy 79<br /> Hearne, TX 77859<br /> (979) 279-3026</p>
+<p>www.QualityPecans.com</p>
+<p><br /> <!--<a href="http://www.QualityPecans.com" target="_blank">www.QualityPecans.com</a><br>--> Located 1.5 miles West of Intersection of Hwy 6 &amp; Hwy 79<br /> Retail &amp; Wholesale. Cheyenne &amp; Kiowa. In-Shell, cracked, Shelled. <br /> Visit our store or order via web or mail-order.<br /> Custom Shelling for large pecan varieties. Open October - January</p>
+<p><strong>BROWN COUNTY</strong></p>
+<p>Pecan Bayou Farm, Steve Whalley<br /> RR 1, Box 263, Brownwood, TX 76801<br /> 915-643-3051<br /> <a href="http://www.leonardnut.com" target="_blank">http://www.leonardnut.com/</a><br /> Inshell pecans Nov. - Dec.; shelled pecans available year-round.</p>
+<p><strong>BURLESON COUNTY</strong></p>
+<p>Royalty Pecan Farms<br /> 10740 Hwy. 21 East, Caldwell, TX 77836<br /> 979-272-3904<br /> <a href="http://www.royaltypecans.com/" target="_blank">http://www.royaltypecans.com/</a><br /> Inshell pecans, meats, gifts, fund raisers, mail order, order online.</p>
+<p><strong>BURNET COUNTY</strong></p>
+<p><strong>CALDWELL COUNTY</strong></p>
+<p>38 Pecans (Acquired the assets of The Pecan Barn August 2015)<br /> 404 Blackjack St. (FM 20E)<br /> Lockhart, TX 78644<br /> 512-393-9894<br /> email: <a href="mailto:info@thepecanbarn.com">info@38pecans.com</a><br /> <strong>Texas Quality Pecans.</strong> We buy fresh inseason pecans. We sell local inshell, shelled and cracked pecans. Try our flavored and candied pecans, too. Mail order and retail available.&nbsp;<strong>We crack and shell pecans.</strong> (end of October thru January)</p>
+<p>Swift River Pecans<br /> Open 9 to 5 daily<br /> 512-212-0778 or 512-787-5343<br /> Located in Caldwell Co. near San Marcos, Lockhart, Luling and Seguin<br /> Check out <a href="http://www.swiftriverpecans.com">www.SwiftRiverPecans.com</a><br /> Inshell and shelled pecans; pecan lumber, mesquite lumber, pecan and mesquite firewood, <br /> orchard management services, custom harvesting.</p>
+<p><strong>CALLAHAN COUNTY</strong></p>
+<p>Childress Agricultural Enterprises<br /> 10831 CR 452<br /> Cross Plains, TX 76443<br /> 254-725-6866 or 254-725-4321<br /> (cell) 325-370-8950<br /> email: <a href="mailto:scott@childressfarm.com">scott@childressfarm.com</a><br /> <a href="www.childressfarm.com" target="_blank">www.childressfarm.com</a><br /> Inshell, cracked, shelled pecans. Sold at the farm, by mail and online</p>
+<p><strong>CLAY COUNTY</strong></p>
+<p>Montz Pecan Co.<br /> Tim Montz and Jake Montz<br /> 867 Old T-Bone Rd., Wichita Falls, TX 76305<br /> 940-544-2555<br /> <a href="mailto:montzpecans@aol.com">montzpecans@aol.com</a> or <a href="mailto:pecanshed@aol.com">pecanshed@aol.com</a><br /> Website: <a href="http://www.pecanshed.com">PecanShed.com</a><br /> Wholesale and Retail: Pawnee, Cheyenne, Wichita, and Choctaw varieties</p>
+<p><strong>COLLIN COUNTY</strong></p>
+<p>Foster Crossing Pecans<br /> Robyn Luscombe<br /> 1320 County Road 366<br /> Anna TX 75409<br /> Phone:972-838-2321<br /> email: <a href="mailto:RobynLuscombe@AOL.com">RobynLuscombe@AOL.com</a><br /> Website: <a href="http://www.FosterCrossingPecans.com" target="_blank">www.FosterCrossingPecans.com</a><br /> Fresh Crop Pecans - Cracking and Shelling - Holiday Tins - Custom Processing</p>
+<p>West Pecan Farms<br /> Retail Store and Shelling Plant<br /> West Pecan Farm<br /> 2355 W. FM 544<br /> Wylie TX 75098<br /> 972-941-6527</p>
+<p><strong>COLORADO COUNTY</strong></p>
+<p>Dohmann Pecan Farms, Edgar and Janis Dohmann<br /> Naumann Farms Road<br /> Columbus, TX 78934<br /> email: <a href="mailto:edgar@dohmann.com">edgar@dohmann.com</a><br /> <a href="http://www.dohmann.com" target="_blank">www.dohmann.com</a><br /> Native pecans - inshell or cracked; available Oct-Jan; we ship anywhere in the USA.</p>
+<p><strong>COMAL COUNTY</strong></p>
+<p>Comal Pecan Farm, Mark Friesenhahn<br /> 231 High Creek Rd., New Braunfels, TX 78132-4838<br /> 830-609-0168 (farm) or 281-660-5445<br /> email: <a href="mailto:mark@comalpecanfarm.com">mark@comalpecanfarm.com</a><br /> <a href="http://www.comalpecanfarm.com" target="_blank">www.comalpecanfarm.com</a><br /> Inshell pecans; available late Sept. to Jan..</p>
+<p><strong>COMANCHE COUNTY</strong></p>
+<p>Durham Pecan Company<br /> 309 S. Houston, Comanche, TX 76442<br /> 325-356-5291<br /> email: <a href="mailto:sales@durhams.com">sales@durhams.com</a><br /> <a href="http://www.durhams.com" target="_blank">www.Durhams.com</a><br /> Inshell &amp; shelled, mail order, fundraising, wholesale &amp; retail, roasting, custom shelling.</p>
+<p>Pecan Valley Partners<br /> 751 CR 424, Comanche, TX 76442<br /> 254-893-5729<br /> Improved inshell pecans.</p>
+<p>Sorrells Farms, Inc.<br /> Farm: 3401 CR 304A, Comanche, TX 76442 Phone: 254.879.4677<br /> Retail Store: 1004 E. Central, Comanche, TX 76442 Phone: 325.356.3616<br /> Contact: Kinley Sorrells or Tami Sorrells</p>
+<p>Bill Sorrell<br /> FM 1496, 2 mi. west 1/2 mi north of Hwy. 377, Proctor, TX 76468<br /> 580-439-8022 or toll free 866-4UR-NUTS or 254-879-2984<br /> <a href="http://www.pecansusa.com/" target="_blank">www.PecansUSA.com/</a><br /> Inshell pecans &amp; shelled (Wichita, Cheyenne, Pawnee), frosted pecans, fudge, peanut brittle.</p>
+<p>Resley Creek Farm, John DeLaney<br /> 1521 CR 392, Carlton, TX 76436<br /> 800-993-8053 farm, 903-490-2700 cell;<br /> <a href="mailto:jdpecans@centurylink.net">jdpecans@centurylink.net</a><br /> <a href="http://www.resleycreekpecans.com" target="_blank">www.ResleyCreekPecans.com</a><br /> Inshell, cracked, flavored, pecan brittle</p>
+<p><strong>CORYELL COUNTY</strong></p>
+<p>Bay Pecan Company<br />213 E. Main St., Gatesville, TX&nbsp;<br />254-791-9709<br /><a href="mailto:baypecanco@hotmail.com">BayPecanCo@hotmail.com</a><br />We sell inshell, cracked, shelled and frosted pecans. We also buy native and improved pecans. We can custom crack and shell pecans.</p>
+<p>&nbsp;</p>
+<p>P&amp;R Pecans<br /> Pete &amp; Renate Haney<br /> 847 Cactus Ln, FM 116 North of Copperas Cove<br /> 254-547-6856<br /> To Cactus Ln Turn Left 1 &amp; 1/4 Mile to 847 Cactus<br /> Sell inshell,shelled. We Crack Pecans</p>
+<p><strong>DALLAS COUNTY</strong></p>
+<p>North Texas Pecans<br />Inshell and Shelled, Wholesale and Retail<br />Pawnee, Cheyenne, Desirable, Nacono<br />Available during harvest while supplies last<br />Call 817-226-8083<br /><br /></p>
+<p><strong>DAWSON COUNTY</strong></p>
+<p><strong>EL PASO COUNTY</strong></p>
+<p>Oro Farms Inc.<br /> 18001 Texas Hwy. 20, Fabens, TX<br /> 915-539-0798<br /> email: <a href="mailto:jeveler@aol.com">jeveler@aol.com</a><br /> Shelled and inshell pecans, year round. Burkett, Western, Wichita.</p>
+<p>Rio Bravo Farms Ltd., Arthur Ivey<br /> 20500 Texas Hwy. 20, Tornillo, TX 79853<br /> 915-764-2190<br /> email: <a href="mailto:tudiiv@elpasonet.net">tudiiv@elpasonet.net</a></p>
+<p><strong>ERATH COUNTY</strong></p>
+<p><strong>FANNIN COUNTY</strong></p>
+<p>Farm and Retail Store<br /> West Pecan Farm<br /> Shawn Fulton<br /> 2563 CR 2135<br /> Telephone, TX 75488<br /> 903-664-2853</p>
+<p><strong>FAYETTE COUNTY</strong></p>
+<p>Potter Country Store, Earl and Dianna Potter<br /> Two Locations: 716 North US Hwy 77, Schulenburg, TX 78956<br /> 116 North Kessler Avenue, Schulenburg, TX 78956<br /> 877-743-2660 or 979-743-2600<br /> website: <a href="http://www.pottercountrystore.com" target="_blank">www.pottercountrystore.com</a> Inshell pecans, shelled meats, roasted pecans, chocolate covered and more.</p>
+<p>Tobias Pecans<br /> J.D. and Lucille Tobias, owners<br /> 109 E. State Hwy. 71, Ellinger, TX 78938<br /> (Between Houston and Austin)<br /> Call 979-378-2829 or 979-378-4226<br /> email: <a href="mailto:pecans@tobiaspecans.net">pecans@tobiaspecans.net</a> <a href="http://www.tobiaspecans.net" target="_blank">www.tobiaspecans.net</a><br /> Inshell Pecans, Cracked, Shelled - halves and pieces, Gifts.<br /> Store open Oct. - March. Will ship year-round.</p>
+<p><strong>FORT BEND COUNTY</strong></p>
+<p>Bessie Creek Groves, Dr. Claude Pawelek<br /> 34333 Pecan Hill Drive, Brookshire, TX 77423<br /> 281-346-1565<br /> email: <a href="mailto:cpawelek@swbell.net">cpawelek@swbell.net</a><br /> We crack and shell nuts; we sell shelled halves and pieces.</p>
+<p>Bagley Pecans Richmond<br /> 109 Hwy. 90A, Richmond, TX 77469<br /> 281-232-2771<br /> email: <a href="mailto:bagleypecansrich@gmail.com">bagleypecansrich@gmail.com</a><br /> <br /> Inshell pecans, shelled meats, flavored pecans, pecan butter, other pecan goodies. We crack pecans.Wholesale and retail.</p>
+<p><strong>FRIO COUNTY</strong></p>
+<p>South Country Pecans<br /> Hwy. 140, Pearsall, TX<br /> 830-334-4557<br /> Wholesale only. Inshell &amp; shelled. Wichita, Chey., Mohawk, Sioux, Choct., Desir., Pawnee.</p>
+<p><strong>GILLESPIE COUNTY</strong></p>
+<p>Buzz White Orchards<br /> 959 South Eagle<br /> Fredericksburg, TX 78624<br /> 830-997-8407 Fax 425-977-0551<br /> <a href="mailto:buzz@beecreek.net">buzz@beecreek.net</a><br /> Retail whole &amp; shelled pecans at the farm from mid-October thru mid-January<br /> Ship nationwide. Custom pecan cracking, spraying, harvesting.</p>
+<p><strong>GONZALES COUNTY</strong></p>
+<p>Oliver Pecan Co. Inc.<br /> Hwy. 90A, Belmont, TX 78604<br /> 830-424-3675 office; 830-832-5306 cell<br /> Inshell and Shelled Pecans; Custom Cracking</p>
+<p>Wholesale and Retail</p>
+<p>&nbsp;</p>
+<p><strong>GRAYSON COUNTY</strong></p>
+<p>Crabtree Pecan Shoppe<br /> 1510 S. Armstrong, Denison, TX 75020<br /> 903-463-1702; <br /> email: <a href="mailto:crabtreepecans@earthlink.net">crabtreepecans@earthlink.net</a><br /> Year-round mail order pecans, gift baskets, wholesale and retail</p>
+<p><strong>GRIMES COUNTY</strong></p>
+<p><strong>GUADALUPE COUNTY</strong></p>
+<p>Guadalupe Grove Pecans, Jim White<br /> 3329 FM 20, Seguin, TX 78155<br /> 830-372-1004<br /> email: <a href="mailto:jwhitepecans@hotmail.com">jwhitepecans@hotmail.com</a><br /> Inshell and shelled pecans. Available Nov. - Dec.</p>
+<p>Pape's Pecan House, Kenneth Pape or John Pape<br /> 101 S. 123 ByPass, Seguin, TX<br /> 830-379-7442; papepecan@aol.com<br /> Shelled and inshell pecans, mail order, fundraising, gifts. Year round. Nut cracker museum. Also offer custom spraying and harvesting services.</p>
+<p><strong>HAMILTON COUNTY</strong></p>
+<p>R.B. Bagley &amp; Sons Inc.<br /> 101 Rice Ave., Hamilton, TX 76531<br /> 254-386-3811<br /> email: <a href="mailto:bagley@centex.net">bagley@centex.net</a><br /> <a href="http://www.rbbagleypecans.com">www.rbbagleypecans.com</a><br /> Pecans.</p>
+<p><strong>HARDEMAN COUNTY</strong></p>
+<p>Valley Pecans, Mike and Kelli Baustert<br /> 1001 Hwy. 287, Chillicothe, TX 79225<br /> 940-852-5957<br /> Web site: <a href="http://www.valleypecans.com" target="_blank">www.ValleyPecans.com</a><br /> Inshell and shelled. Flavored pecans, candies, mail order, ship fresh year round.</p>
+<p>&nbsp;</p>
+<p><strong>HARDIN COUNTY</strong></p>
+<p>Double M Acres, Fred Mehl<br />Batson, Texas<br />936-262-8761;&nbsp;<br />email:&nbsp;<a href="mailto:mmacres@outlook.com">mmacres@outlook.com</a><br />Pecans. Cracking services available.</p>
+<p>&nbsp;</p>
+<p><strong>HARRIS COUNTY</strong></p>
+<p>Resley Creek Farm, John DeLaney<br /> 1521 CR 392, Carlton, TX 76436<br /> 800-993-8053 farm, 903-490-2700 cell;<br /> <a href="mailto:jdpecans@centurylink.net">jdpecans@centurylink.net</a><br /> <a href="http://www.resleycreekpecans.com" target="_blank">www.ResleyCreekPecans.com</a><br /> Inshell, cracked, flavored, pecan brittle.</p>
+<p><strong>HIDALGO COUNTY</strong></p>
+<p>Valley Pecan Company<br /> 2208 North Cage<br /> Pharr, Texas 78577<br /> 956-781-2121<br /> website: <a href="http://www.valleypecan.net" target="_blank">www.valleypecan.net</a><br /> Inshell and shelled pecans.</p>
+<p><strong>HILL COUNTY</strong></p>
+<p>Haller Pecan Farm, Richard and Gay Haller<br /> 371 HCR 1413, Grandview, TX 76050<br /> 817-373-2433 or 817-292-3280<br /> <a href="mailto:richard-haller@att.net">richard-haller@att.net</a><br /> <a href="http://www.hallerpecans.com/" target="_blank">www.HallerPecans.com/</a><br /> Inshell or cracked, Nov. - Jan.; Shelled year round, Desirable, Choctaw, Wichita.</p>
+<p><strong>HOOD COUNTY</strong></p>
+<p><strong>JOHNSON COUNTY</strong></p>
+<p>Walker Orchards<br />Cleburne, TX<br />817-645-8283<br /><a href="mailto:info@walkerorchards.com">info@walkerorchards.com</a>; &nbsp;<a href="http://www.walkerorchards.com">www.walkerorchards.com<br /></a>Chemical-free<br />2012 crop, shelled only, halves or pieces</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>KAUFMAN COUNTY</strong></p>
+<p><strong>KENDALL COUNTY</strong></p>
+<p>Circle H Orchards<br /> 7380 Rolling Acres Trail<br /> Fair Oaks Ranch,<br /> TX 78015<br /> 830-755-6440<br /> email: <a href="mailto:donhagans@aol.com">donhagans@aol.com</a><br /> website:<a href="http://www.circleHorchards.com" target="_blank">www.circleHorchards.com</a><br /> Inshell, shelled and cracked pecans. Pecan oil.</p>
+<p><strong>KERR COUNTY</strong></p>
+<p><strong>KIMBLE COUNTY</strong></p>
+<p>Plumley's Country Store<br /> 2341 N. Main, Junction, TX 76849<br /> 325-446-3986<br /> email: <a href="mailto:splumley@verizon.net">splumley@verizon.net</a><br /> website: <a href="http://www.plumleypecans.com" target="_blank">www.plumleypecans.com</a><br /> Inshell and shelled pecans; flavored pecans; we ship anywhere.</p>
+<p>Seven C's Pecan Orchard, Frank Curran<br /> Junction, TX<br /> 512-282-2397<br /> email: <a href="mailto:frcurran7@aol.com">frcurran7@aol.com</a><br /> Inshell or shelled pecans</p>
+<p><strong>LAMAR COUNTY</strong></p>
+<p>Howland Pecan Co.<br /> 2150 South Church<br /> Paris, Texas 75460<br /> 903-784-3303<br /> cell: 903-739-0490<br /> website: <a href="http://www.howlandpecanco.com">www.Howlandpecanco.com</a><br /> Store open November 1 each year.<br /> Fresh crop of pecans available November 1 of each year.<br /> We have a new warehouse with cleaning facilities. We buy,sell and crack pecans.<br /> In our retail store we have gift baskets, pecan oil, gourmet flavored pecans, cookbooks, seasonings and much more.</p>
+<p>Jubal Orchard<br /> Arthur City, TX<br /> Richard Logee, Manager<br /> 903-732-3962 or <br /> cell - 903-249-8238<br /> jubalorchard@gmail.com<br /> Inshell pecans - Choctaw, GraKing, Desirable, Mohawk. Bring your truck! Avail. late Nov. - Dec.</p>
+<p>&nbsp;</p>
+<p>Paris Texas Pecan Company<br /> 1920 S. Church Street<br /> Paris, Texas 75460<br /> 903.737.0166<br /> <a href="http://www.parispecans.com">www.parispecans.com</a><br /> <a href="mailto:jdorman@wepack.com">jdorman@wepack.com</a><br /> Inshell, Cracked and Shelled Pecans</p>
+<p>&nbsp;</p>
+<p><strong><span style="font-family: Verdana;"><span>LAMPASAS COUNTY</span></span></strong></p>
+<p><span style="font-family: verdana, geneva; font-size: small;">B &amp; D Pecan Paradise<br />9659 US Hwy 190 W<br />Lometa, Texas 76853<br />(512)752-3362<br /><span style="color: #888888;"><a href="mailto:furlan_diana@hotmail.com"><span style="color: #888888;">furlan_<span style="color: #000000;">dianna</span>@hotmail.com</span></a></span><br />Located on the northwestern corner of Lampasas County.&nbsp;Nine miles west of Lometa and one mile east of the&nbsp;Colorado River Bridge in Lampasas County on Hwy 190 W.&nbsp;Many Varieties, In Shell, Cracked, &amp; Shelled Pecans.&nbsp;Open first weekend of November each year thru end of December.&nbsp;Fresh crop of pecans usually available by November 1 of each year.&nbsp;Pecan firewood, chunks for BBQ.</span></p>
+<p><strong>LAVACA COUNTY</strong></p>
+<p>Bohuslav Farm &amp; Ranch, Inc<br /> 856 US Hwy 77N<br /> Hallettsville, Texas 77964<br /> 361 798 3296<br /> <a href="mailto:bohuslav.ranch@sbcglobal.net">bohuslav.ranch@sbcglobal.net</a><br /> Inshell &amp; Shelled Pecans</p>
+<p><strong>LEON COUNTY</strong></p>
+<p>JPC Farms<br /> 1043 CR 163<br /> P.O. Box 1165<br /> Centerville, TX 75833<br /> 903-536-7067 <br /> email: <a href="mailto:dajalufka@windstream.net">dajalufka@windstream.net</a><br /> Shelled Cheyenne pecan meats.</p>
+<p><strong>LUBBOCK COUNTY</strong></p>
+<p>Custom Shell<br /> Richard B Parrack<br /> 5507 114th Street, Lubbock, TX 79424<br /> 806-794-2338<br /> email: <a href="mailto:customshell@sbcglobal.net">customshell@sbcglobal.net</a></p>
+<p>Pecan Ridge, John &amp; Vicki Jobe<br /> 6201 114th St., Lubbock, TX 79424<br /> 806-794-2022<br /> email: <a href="mailto:pecanshell@sbcglobal.net">pecanshell@sbcglobal.net</a><br /> Web Site: <a href="http://www.pecanridge.com" target="_blank">http://www.pecanridge.com</a></p>
+<p><strong>MADISON COUNTY</strong></p>
+<p>JMF Ranch<br /> 936-348-5346 or 936-348-4821<br /> Inshell native pecans. December through February only.</p>
+<p><strong>MASON COUNTY</strong></p>
+<p><strong>MAVERICK COUNTY</strong></p>
+<p>Hughes Pecan Farm<br />100% Certified Organic Pecans<br />24185 N. Hwy. 277, Quemado, TX 78877<br />Contact David Steinbrunner, 830-377-6406 or<br /><a href="mailto:dsteiny@gvtc.com">dsteiny@gvtc.com</a></p>
+<p><a href="http://www.hughespecanfarm.com">www.hughespecanfarm.com</a></p>
+<p>&nbsp;</p>
+<p>Rio Grande Organics<br /> 5306 Hollister<br /> Houston, TX 77040<br /> 713.465.5081<br /> <a href="mailto:info@riograndeorganics.com">info@riograndeorganics.com</a><br /> <a href="http://www.riograndeorganics.com" target="_blank">www.riograndeorganics.com</a><br /> Farms are located in Quemado &amp; Crystal City, TX<br /> Certified Organic &amp; Conventional shelled pecans available year round.<br />Minimum quantity 30 pounds.</p>
+<p><strong>MCLENNAN COUNTY</strong></p>
+<p>Russell's Pecan Orchards and Fine Candies<br /> Dan, Matt and Sandy Russell<br /> 12633 Gholson Rd., Waco, TX 76705<br /> 254-829-1489<br /> <a href="http://www.russellspecans.com" target="_blank">www.russellspecans.com</a></p>
+<p>100 acres of pecans, since 1900. Inshell, cracked, shelled pecans. Over 250 chocolate covered nuts and candies. Sugar free also. Frosted and roasted pecans, mixes, preserves, jams, pie in the jar, new crop almonds, peanuts and walnuts. Gift baskets, brittles.</p>
+<p><strong>MEDINA COUNTY</strong></p>
+<p>Bragg Pecan Farms<br /> P.O. Box 1026, Hondo, TX 78861<br /> 830-741-5215 or 800-938-0261; fax 830-426-2731;<br /> email <a href="mailto:sales@texaspecans.com">Sales@texaspecans.com</a><br /> <a href="http://www.texaspecans.com/" target="_blank">www.TexasPecans.com</a><br /> Inshell, cracked and shelled pecans; pecan candy, gift tins and more.</p>
+<p>Zinsmeyer Pecans<br /> 2851 U.S. Hwy. 90E, Castroville, TX<br /> 830-985-3170<br /> Inshell, cracked, shelled meats.</p>
+<p><strong>MENARD COUNTY</strong></p>
+<p>K&amp;K Pecans<br /> 210 Ellis St. (mailing address: 500 Kniffen Ln.)<br /> Menard, TX 76859<br /> 325-396-2245; 325-396-2943<br /> <a href="mailto:nkniffen@yahoo.com">nkniffen@yahoo.com</a><br /> We sell inshell, cracked and shelled pecans.</p>
+<p>R.B. Bagley &amp; Sons Inc.<br /> Menard, TX<br /> 915-396-3367<br /> email: <a href="mailto:bagley@centex.net">bagley@centex.net</a><br /> <a href="http://www.rbbagleypecans.com">www.rbbagleypecans.com</a><br /> Pecans.</p>
+<p><strong>MIDLAND COUNTY</strong></p>
+<p>Foy Boyd<br /> 2801 S. CR 1180<br /> Midland, TX 79706<br /> 915-570-4447<br /> email: <a href="mailto:foyboyd@nwol.net">foyboyd@nwol.net</a><br /> Inshell, Western, Nov. - Jan.</p>
+<p>Pecan Tree Partners<br /> Midland, TX<br /> 432-924-5141<br /> email: <a href="mailto:21hialeah@att.net">21hialeah@att.net</a><br /> Buy and sell pecans; custom shelling; pecan candies and epicurean<br /> treats; corporate and restaurant orders; wholesale and retail; mail<br /> order.</p>
+<p><strong>MILAM COUNTY</strong></p>
+<p>R.B. Bagley &amp; Sons Inc., John Byrd<br /> 210 E. First St.<br /> Cameron, TX 76520<br /> 254-697-2334; <a href="mailto:jbyrd@centex.net">jbyrd@centex.net</a><br /> <a href="http://www.rbbagleypecans.com">www.rbbagleypecans.com</a><br /> Pecans.</p>
+<p><strong>MILLS COUNTY</strong></p>
+<p>Pecans.com Retail Store<br /> 4th and Front St.<br /> Goldthwaite, TX. 76844<br /> 325-938-5460<br /> email: <a href="mailto:sales@pecans.com">sales@pecans.com</a><br /> Specializing in factory outlet pecan shelling. Fresh shelled pecans, flavored pecans, pralines, local jams and jellies, fresh baked pecan pies, fudge and more. "CCOF Certified Organic pecan shelling facility."<br /> <a href="http://www.pecans.com/" target="_blank">http://www.pecans.com/</a></p>
+<p><strong>NAVARRO COUNTY</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>PALO PINTO COUNTY</strong></p>
+<p><strong><br /></strong>Gilbert Pecan Co. (Est. 1969)<br />87163 I-20, Santo, TX 76472<br />940-769-4500 or 888-769-4501<br /><a href="mailto:rhea@gilbertpecan.com">rhea@gilbertpecan.com</a>;&nbsp;<a href="http://www.gilbertpecan.com">www.gilbertpecan.com</a><a href="http://www.gilbertpecan.com"><br /></a>OPEN Year round, 7 days a week.<br />Inshell, cracked, halves &amp; pieces, candied pecans, homemade brittles, homemade pies, sugar-free candies, gift tins &amp; baskets. Visit our store, mail order, wholesale &amp; fundraising available. Please call or email for questions or orders.</p>
+<p>&nbsp;</p>
+<p><strong>PARKER COUNTY</strong></p>
+<p style="text-align: left;">Savage Pecan Farm<br /> <a href="mailto:orders@savagepecans.com">orders@savagepecans.com</a> &nbsp;*&nbsp;<a href="mailto:danene@savagepecans.com">danene@savagepecans.com</a>&nbsp; *&nbsp;<a href="http://www.savagepecans.com">www.savagepecans.com</a></p>
+<p style="text-align: left;">South Weatherford, Texas<br /> (817) 304-2896<br /> Fresh crop pecans (Sioux, Choctaw, Pawnee, Wichita, Mohawk)<br /> Inshell, shelled or cracked. "We Crack Pecans"<br /> Email or Call</p>
+<p><strong>REAL COUNTY</strong></p>
+<p><strong>ROBERTSON COUNTY</strong></p>
+<p><strong>RUNNELS COUNTY</strong></p>
+<p><strong>SAN SABA COUNTY</strong></p>
+<p>Oliver Pecan Co. Inc.<br /> 1402 W. Wallace<br /> San Saba, TX 76877<br /> 800-657-9291<br /> <a href="http://www.oliverpecan.com" target="_blank">www.oliverpecan.com</a><br /> Inshell, Cracked, Halves and Pieces. Chocolate Pecans, Flavored Pecans, Pies, Pecan Honey<br /> Butters, Pralines, Turtles, Sugar Free items, Gift Tins and more. Visit our store, open all year.<br /> Mail Order, Wholesale and Fundraising. Private Label available for wholesale and corporate gifts.</p>
+<p>San Saba Pecan LP<br /> 2803 W Wallace<br /> San Saba, Texas 76877<br /> <a href="mailto:badams@sansabapecan.com">Sales@sansabapecan.com</a></p>
+<p>The Great San Saba River Pecan Company<br /> Hwy. 190 (1/2 mile west of San Saba)<br /> 800-621-8121<br /> <a href="http://www.greatpecans.com">www.greatpecans.com</a><br /> email: <a href="mailto:gssrpc@centex.net">gssrpc@centex.net</a><br /> Pecan pies, pastries, candies, preserves, shipped year round.</p>
+<p>R.B. Bagley &amp; Sons Inc.<br /> 420 E. Commerce, San Saba, TX 76877<br /> (915) 372-5154<br /> email: <a href="mailto:bagley@centex.net">bagley@centex.net</a><br /> <a href="http://www.rbbagleypecans.com">www.rbbagleypecans.com</a><br /> Pecans.</p>
+<p><strong>SCHLEICHER COUNTY</strong></p>
+<p>AMMACO Orchard<br /> James and Ava Russell<br /> (325) 853-3087<br /> email: <a href="mailto:avarussell@hughes.net">avarussell@hughes.net</a><br /> Inshell pecans available Nov.-Feb. (Western, Wichita &amp; Sioux) Shelled pecans, pecan pies and candies shipped year round.</p>
+<p>Eldorado Pecans<br /> Leroy Olsak<br /> 4.5 miles southwest of Eldorado, TX on FM 2129<br /> email: <a href="mailto:olsakl@verizon.net">olsakl@verizon.net</a><br /> Inshell Western and Wichita Nov. thru Jan.</p>
+<p><strong>SUTTON COUNTY</strong></p>
+<p><strong>TARRANT COUNTY</strong></p>
+<p>Ellis Pecan Country Store<br /> 6964 Green Oaks Road<br /> Fort Worth, TX 76116<br /> (817) 989-0101<br /> website: <a href="http://www.durhampecan.com" target="_blank">www.durhampecan.com</a></p>
+<p><strong>TOM GREEN COUNTY</strong></p>
+<p>Oliver Pecan Co. Inc.</p>
+<p>3101 N. Chadbourne, San Angelo, TX 76901<br /> (325) 659-2490<br /> Custom shelling, inshell, halves, pieces, pecan candies, retail, wholesale, fund raising.</p>
+<p>Plateau Pecans, Clovis and Bettie Olsak<br /> 1702 S. Harrison, San Angelo, TX 76901<br /> (915) 949-2469<br /> email: <a href="mailto:pecanderosa@aol.com">pecanderosa@aol.com</a><br /> Inshell pecans available Nov. - Jan. No mail orders.</p>
+<p><strong>TRINITY COUNTY</strong></p>
+<p>Albus Pecan Farm<br /> Nick and Sharon Albus<br /> Trinity, TX; 936-594-5466<br /> email: <a href="mailto:nicholasalbus@yahoo.com">nicholasalbus@yahoo.com</a><br /> Inshell and cracked pecans, Pawnee, Desirable, Choctaw, Kiowa and more.<br /> Pecans available Oct. through Dec.</p>
+<p><strong>VICTORIA COUNTY</strong></p>
+<p>Nelson Pecan Farm, Charles and Donna Nelson<br /> 2991 N FM 444, Inez, TX 77968<br /> (361) 575-3146<br /> email: <a href="mailto:nelsonpecanfarm@gmail.com">nelsonpecanfarm@gmail.com</a>; <a href="http://www.nelsonpecanfarm.com">www.nelsonpecanfarm.com</a><br /> Inshell and shelled pecans.</p>
+<p>&nbsp;</p>
+<p>Riverbend Farms, John and L&iacute;Nell Starkey<br />17 Jade, Victoria, TX 77904<br />(361) 573-4675<br />email:&nbsp;<a href="mailto:jstarkey70@hotmail.com">jstarkey70@hotmail.com</a><br />Inshell, cracked, shelled; mesquite bbq flavored, pralines. Avail. Nov. - Jan.</p>
+<p><strong>WALKER COUNTY</strong></p>
+<p>Albus Pecan Farm<br /> Nick and Sharon Albus<br /> Trinity, TX<br /> email: <a href="mailto:nicholasalbus@yahoo.com">nicholasalbus@yahoo.com</a><br /> Inshell and cracked pecans, Pawnee, Desirable, Choctaw, Kiowa and more.<br /> Pecans available Oct. through Dec.</p>
+<p>Pecan Grove<br /> 929C State Highway 150<br /> New Waverly, TX 77358-3879<br /> (936) 337-4334<br /> fax: (832) 218-3468<br /> email: <a href="mailto:info@pecan-grove.net">info@pecan-grove.net</a><br /> Shelled pecans, 1 and 3 pound packages, halves and pieces.</p>
+<p><strong>WALLER COUNTY</strong></p>
+<p>Choctaw Hill Pecan Farms<br /> 43600 Harper&iacute;s Church Road, Hempstead, TX 77445<br /> (979) 826-3077<br /> email: <a href="mailto:choctawhill_99@yahoo.com">choctawhill_99@yahoo.com</a><br /> Many varieties, inshell and shelled meats, mail order year round.</p>
+<p>Roy Gene Spivey Pecan Farm<br /> 7611 Bobwhite<br /> Brookshire, TX 77423<br /> (281) 375-5838<br /> email: <a href="mailto:roygenespivey@consolidated.net">roygenespivey@consolidated.net</a><br /> Inshell only. Many varieties of Papershell: Candy, Desirable, Stuart.</p>
+<p><strong>WASHINGTON COUNTY</strong></p>
+<p>Cinco B Farms, Pat and Marguerite Baggett<br /> 2705 Englebrecht Rd., Burton, TX 77835<br /> Phone: (979) 289-2320<br /> Fax: (979) 289-0401<br /> email: <a href="mailto:patatcbf@teleshare.net">patatcbf@teleshare.net</a><br /> Shelled meats, inshell pecans, cracked pecans and pecan brittle. Shelled pecans and pecan brittle available year round. Custom cracking available.</p>
+<p><strong>WEBB COUNTY</strong></p>
+<p><strong>WHARTON COUNTY</strong></p>
+<p>R.B. Bagley &amp; Sons Inc.<br /> 902 N. Richmond Rd., Wharton, TX 77488<br /> (979) 532-4020<br /> email: <a href="mailto:bagleypecan@yahoo.com">bagleypecans@yahoo.com</a><br /> <a href="http://www.rbbagleypecans.com">www.rbbagleypecans.com</a><br /> Pecans.</p>
+<p>Wharton Ranch, Robert Gao<br /> (281) 466-4677<br /> email: <a href="mailto:rgao@whartonranch.com">rgao@whartonranch.com</a><br /> Wholesale, retail and trade inshell and shelled pecans all year around.</p>
+<p><strong>WICHITA COUNTY</strong></p>
+<p>Pecan Shed, Jill Montz<br /> 1401 Midwestern Pkwy., Wichita Falls, TX 76302<br /> 800-317-3226<br /> email: <a href="mailto:pecanshed@aol.com">pecanshed@aol.com</a>; <a href="http://www.pecanshed.com/" target="_blank">http://www.pecanshed.com/</a><br /> Inshell &amp; cracked, Nov. - Feb. Shelled pecans year round. Mail order, wholesale &amp; retail.</p>
+<p><strong>WILLIAMSON COUNTY</strong></p>
+<p>Georgetown Pecan Company, Dennis and Marilyn Perz<br /> Georgetown, TX <br /> 512-864-3828<br /> email: <a href="mailto:gqpecans@thegateway.net">gqpecans@thegateway.net</a><br />We offer inshell and shelled pecans. Desirable, Cheyenne, Choctaw, Kiowa, Mohawk. We ship. Retail only.</p>
+<p>Our management system is based on sustainable principles. It is rooted in creating healthy soil by increasing and balancing the many kinds of microbes making up the soil food web. This balance is optimized for pecan trees.</p>
+<p>The Grove on the Gabriel<br /> Al &amp; Carolyn Endsley<br /> 260 Old State Hwy. 29<br /> Georgetown, TX 78626<br /> 512-863-4916; <a href="mailto:pecanal@aol.com">pecanal@aol.com</a><br /> Inshell and cracked Desirable and Cheyenne varieties, small quantities</p>
+<p>&nbsp;</p>
+<p>Schwegmann Orchard, David &amp; Kathy Schwegmann<br />3530 N. IH-35<br />Georgetown, TX<br />512-863-3314, 512-630-3211<br />Inshell, cracked and shelled Cheyenne, Choctaw, Desirable, Kiowa and Pawnee.</p>
+<p>All pecans are grown in our orchard and processed through a cleaner, air-leg grader and sizer to ensure quality.</p>
+<p>&nbsp;</p>
+<p>Yegua Creek Farms<br /> 4600 CR 467<br /> Elgin, TX 78621<br /> 512-856-0192 or 817-929-2789 (cell)<br /> email: <a href="mailto:yeguacreekfarms@yahoo.com">yeguacreekfarms@yahoo.com</a><br /> website:<a href="http://www.yeguacreekfarms.com" target="_blank">www.yeguacreekfarms.com</a><br /> Small batch bustom cracking and/or shelling. Pecan firewood, hardwood mulch, pecan shell mulch, sawdust, chunks for BBQ and pecan lumber. Shelled pecans, flavored pecans, inshell pecans. Pumpkin-pecan bread and much more.</p>
+<p><strong>WILSON COUNTY</strong></p>
+<p>Bar D River Ranch<br /> 720 CR 251, Falls City, TX 78113<br /> 830-484-3759<br /> email: <a href="mailto:cameron@bardpecans.com">cameron@bardpecans.com</a><br /> website: <a href="http://www.BarDPecans.com" target="_blank">www.BarDPecans.com</a><br /> Inshell pecans available Sept. 15 - Nov. 15.</p>
+<p>Rhew Orchards<br /> 762 CR 403<br /> Floresville, TX 78114<br /> 830-393-6022<br /> email: <a href="mailto:ann@rheworchards.com">ann@rheworchards.com</a><br /> website: <a href="http://www.rheworchards.com" target="_blank">www.rheworchards.com</a></p>
+<p><strong>WISE COUNTY</strong></p>
+<p>Decatur Garden Center, James Haynes<br />1551 Preskitt Rd., Decatur, TX 76234<br />940-627-4335<br />email: <a href="email:haynescc@hotmail.com">haynescc@hotmail.com</a><br />We sell container pecan trees - most popular varieties and native seedling trees. We also sell pecan oil, pecan honey butter. We buy and sell pecans, shell and crack pecans. Sell hand tools, crackers &amp; cracking equipment,</p>
+<p><strong>WOOD COUNTY</strong></p>
+<p>The Pecan House, LouAnn Hogue<br /> 1225 W. FM 564, Mineola, TX 75773<br /> 903-569-3437<br /> email: <a href="mailto:louannhogue@hotmail.com">louannhogue@hotmail.com</a><br /> webpage: <a href="http://www.mineolapecanhouse.com" target="_blank">www.mineolapecanhouse.com</a><br /> Inshell &amp; shelled meats, flavored pecans. Mid Oct. - March. Chey., Choctaw, Wich., Pawnee.</p>
+<p><strong>YOUNG COUNTY</strong></p>
+<p><strong>ZAVALA COUNTY</strong></p>
+<p>Rio Grande Organics<br /> 5306 Hollister<br /> Houston, TX 77040<br /> 713.465.5081<br /> <a href="mailto:info@riograndeorganics.com">info@riograndeorganics.com</a><br /> <a href="http://www.riograndeorganics.com" target="_blank">www.riograndeorganics.com</a><br /> Farms located in Quemado &amp; Crystal City, TX<br /> Varieties - Cheyenne, Wichita, Western, Mohawk, Desirable, &amp; Choctaw<br /> Certified Organic &amp; Organically Grown/Transitional pecans<br /> Inshell - available during harvest<br /> Shelled - available year round; halves &amp; pieces; bulk 30 lb cases; wholesale, individual, &amp; retail</p>
+<hr noshade="noshade" size="1" />
+<h1><strong>OUT OF STATE</strong></h1>
+<p><strong>ARKANSAS</strong></p>
+<p>York Pecan Company<br /> 2919 Hwy. 32 W, Foreman, AR 71836<br /> 877-732-2699<br /> email: <a href="mailto:yorkpecan@walnutar.com">yorkpecan@walnutar.com</a><br /> Inshell pecans, shelled meats, flavored pecans, custom shelling, available year round. AIB approved, HACCP program in place</p>
+<p><strong>CALIFORNIA</strong></p>
+<p>M&amp;D Pecanland<br /> 6621 Petit Ave., Lake Balboa, CA 91406<br /> 818-988-1082; fax 818-904-1835<br /> <a href="http://www.mdpecanland.com/" target="_blank">http://www.mdpecanland.com/</a><br /> Inshell pecans, kernels, variety of candies for wholesale and/or direct-to-consumer retail.</p>
+<p><strong>GEORGIA</strong></p>
+<p>Pecan USA, Inc.<br /> Contact: Rong Li or Dan Karski<br /> 3719 Old Alabama Road, Suite 300G/156<br /> Johns Creek, Georgia 30022<br /> 678-249-4462 or 678-249-7881<br /> <a href="mailto: pecanusa@gmail.com">pecanusa@gmail.com</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>LOUISIANA</strong></p>
+<p>Littlepage Farms<br /> Ben Littlepage<br /> 12219 Hwy. 8 South<br /> Colfax, LA 71417<br /> 318-627-3715 or 318-481-5449<br /> email: <a href="mailto:littlepageb@bellsouth.net">littlepageb@bellsouth.net</a><br /> Inshell pecans</p>
+<p><strong>NEW MEXICO</strong></p>
+<p>Dixie Ranch<br /> 4020 S. Highway 28 South, Las Cruces, NM 88005<br /> 505-524-9206 farm; 602-525-2377 cell<br /> email: <a href="mailto:lesdavietii@cs.com">lesdavietii@cs.com</a><br /> Bulk inshell pecans.</p>
+</td>
+<td valign="top"><img src="images/rt_fadline.gif" width="5" height="216"></td>
+</tr>
+<tr align="center">
+    <!-- footer links -->
+    <td valign="top" class="copyright">&nbsp;</td>
+    <td valign="top" class="copyright"><a href="http://www.tpga.org/index.php">home</a> | <a href="http://www.tpga.org/contact.php">contact</a> | <a href="https://www.tpga.org/member_area.php">members area</a> | <a href="https://www.tpga.org/merchandise/add_item.php?id=67&m=10">membership application</a> | <a href="http://www.tpga.org/events_list.php">list of events</a> | <a href="http://www.tpga.org/recipes.php">recipes</a> | <a href="http://www.tpga.org/activities.php">tpga activities<br>
+        </a> <a href="http://www.tpga.org/annconference.php">annual conference</a> | <a href="http://www.tpga.org/buysellpecans.php">buying/selling pecans</a> | <a href="http://www.tpga.org/nutritionupdates.php">nutrition/health updates</a> | <a href="http://www.tpga.org/whats_new.php">what's new</a> <a href="http://www.tpga.org/magazine.php"><br>
+        pecan south magazine </a>| <a href="http://www.tpga.org/faqs.php">faq's</a> | <a href="http://www.tpga.org/links.php">links</a><br>
+        <br>
+        &copy; 2002 Texas Pecan Growers Association<br>
+        <br></td>
+    <td valign="top" class="copyright"><img src="images/spacer.gif" width="5" height="15"></td>
+</tr>
+</table>
+<map name="Map">
+    <area shape="rect" coords="632,5,793,133" href="index.php" alt="The Texas Pecan Growers Association">
+</map>
+</body></html>
